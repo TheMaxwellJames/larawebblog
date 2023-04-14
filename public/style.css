@@ -1,0 +1,56 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.logo{
+    line-height: 70px;
+    font-weight: bold;
+    font-size: 18px;
+    left: 5%;
+    position: relative;
+
+}
+
+
+nav{
+    background-color: skyblue;
+    width: 100%;
+    height: 70px;
+}
+
+ul{
+    float: right;
+    margin-right: 20px;
+    line-height: 70px;
+}
+
+ul li 
+{
+    display: inline-block;
+}
+
+ul li a 
+{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+
+.deg
+{
+    padding-left: 10%;
+    padding-right: 10%;
+    position: relative;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+.label{
+    font-weight: bold;
+}
